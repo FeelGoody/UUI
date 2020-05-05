@@ -31,8 +31,6 @@
     <FileEntry Name="FIRST_NAME.dat" Filter="2" />
     <FileEntry Name="OPET_APP_WSN.dat" Filter="2" />
     <FileEntry Name="USER_ID.dat" Filter="2" />
-    <FileEntry Name="combined_845.c" Filter="2" />
-    <FileEntry Name="combined_846.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
