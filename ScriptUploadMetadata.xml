@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>O_IOT_Activation_SLev_ADD_Discount_1920_test</ScriptName>
+  <Protocol>Tuxedo</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="O_IOT_Activation_SLev_ADD_Discount_1920_test.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="O_IOT_Activation_SLev_ADD_Discount_1920_test.prm" Filter="2" />
+    <FileEntry Name="end.rec" Filter="2" />
+    <FileEntry Name="init.rec" Filter="2" />
+    <FileEntry Name="replay.vdf" Filter="2" />
+    <FileEntry Name="run.rec" Filter="2" />
+    <FileEntry Name="tpinit.ini" Filter="2" />
+    <FileEntry Name="txreplay.msc" Filter="2" />
+    <FileEntry Name="LAST_NAME.dat" Filter="2" />
+    <FileEntry Name="CTN.dat" Filter="2" />
+    <FileEntry Name="DPET_STORAGE.dat" Filter="2" />
+    <FileEntry Name="DPET_SEC_WSN.dat" Filter="2" />
+    <FileEntry Name="APPDIR.dat" Filter="2" />
+    <FileEntry Name="OPET_STORAGE.dat" Filter="2" />
+    <FileEntry Name="OPET_SEC_WSN.dat" Filter="2" />
+    <FileEntry Name="DPET_APP_WSN.dat" Filter="2" />
+    <FileEntry Name="SIM.dat" Filter="2" />
+    <FileEntry Name="TUX12.dat" Filter="2" />
+    <FileEntry Name="FIRST_NAME.dat" Filter="2" />
+    <FileEntry Name="OPET_APP_WSN.dat" Filter="2" />
+    <FileEntry Name="USER_ID.dat" Filter="2" />
+    <FileEntry Name="combined_845.c" Filter="2" />
+    <FileEntry Name="combined_846.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="O_IOT_Activation_SLev_ADD_Discount_1920_test.prm.bak" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
